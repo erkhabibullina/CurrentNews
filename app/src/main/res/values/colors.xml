@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--TODO change colors-->
+<resources>
+    <color name="colorPrimary">#1a237e</color>
+    <color name="colorPrimaryDark">#000051</color>
+    <color name="colorPrimaryLight">#534bae</color>
+    <color name="colorTextPrimary">#efefef</color>
+    <color name="colorTextSecondary">#000051</color>
+    <color name="cardBackground">#ddd</color>
+    <color name="recyclerViewDivider">#61ced7db</color>
+    <color name="gradient_start">#7f000000</color>
+    <color name="gradient_end">#00000000</color>
+    <color name="option_item_tint_color">#ad000000</color>
+</resources>

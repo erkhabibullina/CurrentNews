@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_headlines"
+        android:icon="@drawable/ic_news"
+        android:title="@string/title_news"
+        app:titleTextAppearance="@style/TextAppearance.TextStyle"/>
+
+    <item
+        android:id="@+id/navigation_saved"
+        android:icon="@drawable/ic_bookmarks"
+        android:title="@string/title_bookmarks"
+        app:titleTextAppearance="@style/TextAppearance.TextStyle"/>
+
+    <item
+        android:id="@+id/navigation_sources"
+        android:icon="@drawable/ic_sources"
+        android:title="@string/title_sources"
+        app:titleTextAppearance="@style/TextAppearance.TextStyle"/>
+</menu>

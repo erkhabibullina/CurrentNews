@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CurrentNews</string>
+
+    <string name="sample_source">Wall Street Journal • 1h</string>
+    <string name="sample_title">Trump says Harry and Meghan must pay for security</string>
+    <string name="sample_title_long">The problem for United is Solskjaer’s rebuild is just the latest of many that have so far failed since Ferguson retired in 2013</string>
+    <string name="sample_description">LIVERPOOL: Thirteen months on from the match that finally drew the curtain on Jose Mourinho’s time in charge of Manchester United, the Red Devils again find themselves living in Liverpool’s shadow ahead of their return to Anfield on Sunday.</string>
+    <string name="image_desc">News post image</string>
+
+    <string name="title_news">News</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="title_sources">Sources</string>
+
+    <string name="image_desc_share_button">share button</string>
+    <string name="image_desc_save_button">save button</string>
+    <string name="image_desc_open_in_browser_button">open in browser button</string>
+    <string name="image_btn_desc_next">Next Button</string>
+    <string name="image_btn_desc_prev">Previous Button</string>
+    <string name="bottom_sheet_option_save">Save for later</string>
+    <string name="share_button">Share</string>
+    <string name="bottom_sheet_option_open_in_browser">Open in browser</string>
+    <string name="read_full_news_button">read full news</string>
+
+    <string name="image_desc_source_image">Source Image</string>
+    <string name="sample_category">General</string>
+
+    <string name="message_item_saved">Article added to Saved</string>
+    <string name="message_item_removed">Article removed from Saved</string>
+    <string name="info_no_saved_articles">No Saved Articles</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7292272966896172/5570930570</string>
+    <string name="admob_app_id">ca-app-pub-7292272966896172~2014828943</string>
+    <string name="sample_page">1/5</string>
+</resources>
